@@ -1,0 +1,4 @@
+﻿  Warrior.cpp
+C:\Users\Yash Malviya\source\repos\ScratchEngine\Source\Object\GameObject.h(12,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Yash Malviya\source\repos\ScratchEngine\Source\Object\GameObject.h(13,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ScratchEngine.vcxproj -> C:\Users\Yash Malviya\source\repos\ScratchEngine\Debug\ScratchEngine.exe

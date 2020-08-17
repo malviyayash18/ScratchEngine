@@ -1,0 +1,2 @@
+C:\Users\Yash Malviya\source\repos\ScratchEngine\Debug\ScratchEngine.exe
+C:\Users\Yash Malviya\source\repos\ScratchEngine\Debug\ScratchEngine.pdb
