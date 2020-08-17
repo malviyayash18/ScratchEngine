@@ -1,5 +1,5 @@
 #pragma once
-//comment
+
 #include "Vector2D.h"
 
 #define UNIT_MASS 1.0f
